@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Presentacion\bin\Presentacion.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Presentacion\bin\Presentacion.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Presentacion\obj\Debug\Presentacion.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Presentacion\bin\NivelDatos.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Presentacion\bin\NivelDatos.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Presentacion\bin\Entities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Presentacion\bin\Entities.pdb

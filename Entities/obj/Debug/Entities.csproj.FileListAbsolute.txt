@@ -1,0 +1,4 @@
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Entities\bin\Debug\Entities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Entities\bin\Debug\Entities.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Entities\obj\Debug\Entities.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\Entities\obj\Debug\Entities.pdb

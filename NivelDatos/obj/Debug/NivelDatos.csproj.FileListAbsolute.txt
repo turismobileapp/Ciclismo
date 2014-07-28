@@ -1,0 +1,4 @@
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\NivelDatos\bin\Debug\NivelDatos.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\NivelDatos\bin\Debug\NivelDatos.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\NivelDatos\obj\Debug\NivelDatos.dll
+C:\Users\USUARIO\Documents\Visual Studio 2010\Projects\Ciclismo\NivelDatos\obj\Debug\NivelDatos.pdb
